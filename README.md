@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @decoder291
 - 👀 I’m interested in C,OS
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Anime-website
-- 😄 Pronouns: poison
-- ⚡ Fun fact: I M !Not LAzY
+- 😄 Pronouns: anonymous
+- ⚡ Fun fact: 01100001 01101110 01101111 01101110 01111001 01101101 01101111 01110101 01110011
 
 <!---
 decoder291/decoder291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
